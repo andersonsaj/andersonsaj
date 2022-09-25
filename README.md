@@ -16,4 +16,3 @@
   <img align="center" alt="And-Next" height="30" width="40" src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%230BB5DA">
 </div>
 
-##
